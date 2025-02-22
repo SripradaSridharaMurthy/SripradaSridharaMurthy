@@ -1,6 +1,6 @@
 ## Hello, Welcome to my GitHub portfolio! 
 
-I am Sriprada Sridhara Murthy. I am a **Master's graduate in Information Systems Security** with a passion for **Cyber Security**, **Cloud Security** and **Technical Writing**. This repository showcases my work, including projects related to cyber security and cloud and technical documentation.
+I am Sriprada Sridhara Murthy, a Data & Business Analytics Enthusiast passionate about uncovering insights through data. I enjoy working with Python, SQL, Power BI, and Tableau to analyze trends, create visualizations, and drive data-driven decisions.
 
 
 <!---
